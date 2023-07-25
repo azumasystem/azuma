@@ -4,6 +4,7 @@ arch-install-scripts
 archinstall
 b43-fwcutter
 base
+base-devel
 bind
 brltty
 broadcom-wl
@@ -67,7 +68,6 @@ mkinitcpio-archiso
 mkinitcpio-nfs-utils
 modemmanager
 mtools
-nano
 nbd
 ndisc6
 nfs-utils
@@ -144,3 +144,10 @@ xorg
 xorg-fonts
 ttf-roboto
 neofetch
+pulseaudio
+pulseaudio-alsa
+pavucontrol
+sof-firmware
+lsb-release
+unzip
+unrar
