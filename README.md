@@ -1,0 +1,2 @@
+# azuma
+Azuma Linux 
